@@ -1,5 +1,5 @@
 # Frontend Mentor - Sunnyside agency landing page
-This is a solution to the [QR Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub)
+This is a solution to the [Sunnyside Agency challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub)
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -28,4 +28,4 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 - Solution URL: [Sunnyside Landing PageSolution](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-JG0vDwLXIf)
-- Live Site URL: [Sunnyside Agency](https://brycezubi.github.io/qr-component/)
+- Live Site URL: [Sunnyside Agency](https://brycezubi.github.io/Sunnyside-agency-landing/)
